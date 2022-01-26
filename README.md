@@ -13,14 +13,29 @@
             P E M B A G I A N   T U G A S :
 
             RESKI KURNIA 
-          	  - 
-          	  - 
-          	  - 
+          	  - Cari Referensi 
+          	  - buat Source kode
+		  - Buat Laporan
 
             FEBRI WIJAYANTO 20.83.0511
-          	 - 
-          	 -
+          	 - Cari Referensi 
+          	 - buat Source kode
 
             P. FADLIANSYAH B. YADIA 20.83.0512
-          	 - 
+          	 - Cari Referensi 
+		 - buat Source kode
+		
+		
+	# keylogger DEMO
+	
+	keylogger Python sederhana dan kuat yang mampu mencatat penekanan tombol, mencatat klik mouse, mengambil tangkapan layar, dan banyak lagi! Alat ini akan 		mengirimkan log ke email Anda setiap menit
+
+	### Install
+	1. Clone it:
+	"git clone https://github.com/D4Vinci/PyLoggy.git "
+
+	2. Run it:
+	"python keylogger.py"
+	
+	###
 	-----------------------------------------

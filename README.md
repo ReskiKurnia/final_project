@@ -4,6 +4,7 @@
              	
 		F  i  n  a  l    P  r  o  j  e  c  t 
 		
+	LINK VIDEO PRESENTASI :  https://drive.google.com/file/d/1jF1liXsDZ6tzFzVd4-LW3bXrKSUxsreX/view?usp=drivesdk
 
              KELOMPOK :
             	20.83.0530_RESKI KURNIA 
@@ -25,7 +26,7 @@
           	 - Cari Referensi 
 		 - buat Source kode
 	
-	LINK VIDEO PRESENTASI :  https://drive.google.com/file/d/1jF1liXsDZ6tzFzVd4-LW3bXrKSUxsreX/view?usp=drivesdk
+		
 		
 		
 	# keylogger DEMO

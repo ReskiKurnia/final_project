@@ -32,7 +32,7 @@
 
 	### Install
 	1. Clone it:
-	"git clone https://github.com/D4Vinci/PyLoggy.git "
+	"git@github.com:ReskiKurnia/final_project.git"
 
 	2. Run it:
 	"python keylogger.py"

